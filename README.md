@@ -44,7 +44,7 @@ Follow these steps to run the Spring Boot application:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/virtual-power-plant.git
+   git clone https://github.com/jeewanyadav/BatteryTestApp
 
 Navigate to the project directory:      
 
